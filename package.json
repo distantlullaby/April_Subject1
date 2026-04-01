@@ -1,0 +1,23 @@
+{
+  "name": "obsidian-link-fixer",
+  "version": "1.0.0",
+  "description": "自动修复粘贴内容时内部链接的相对路径问题",
+  "main": "main.js",
+  "scripts": {
+    "dev": "obsidian-plugin dev",
+    "build": "obsidian-plugin build"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "link",
+    "paste"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "obsidian": "^1.4.0",
+    "typescript": "^5.0.0"
+  }
+}

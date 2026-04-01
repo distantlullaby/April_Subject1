@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-link-fixer",
+  "name": "Link Fixer",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "自动修复粘贴内容时内部链接的相对路径问题，确保链接可以正确跳转",
+  "author": "Developer",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

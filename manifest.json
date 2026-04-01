@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-link-updater",
+  "name": "Link Updater",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically updates internal links when content is cut or copied/pasted between files, ensuring links point to the correct target files.",
+  "author": "Your Name",
+  "authorUrl": "https://github.com/yourname",
+  "isDesktopOnly": false
+}

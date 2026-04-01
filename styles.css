@@ -1,0 +1,6 @@
+.link-updater-notice {
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  padding: 8px 12px;
+  border-radius: 4px;
+}

@@ -1,0 +1,11 @@
+{
+	"id": "relative-link-updater",
+	"name": "Relative Link Updater",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "当移动或复制包含链接的内容时，自动更新链接路径使其相对于新文件",
+	"author": "Obsidian Plugin Developer",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
